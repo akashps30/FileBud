@@ -1,6 +1,7 @@
 # FileBud
 
 This project is a backend application for file storage and management, inspired by Google Drive. It is built using MongoDB, Express, and Node.js, with various features such as user authentication, file uploads, folder management, and media streaming.
+
 Live Demo: https://file-bud-frontend.vercel.app/
 
 
